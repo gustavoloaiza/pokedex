@@ -1,3 +1,6 @@
+https://pokedexhtavolg.herokuapp.com/
+https://gustavoloaiza.github.io/pokedex/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
