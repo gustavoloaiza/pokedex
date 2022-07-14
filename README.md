@@ -1,3 +1,4 @@
+deploy:
 https://pokedexhtavolg.herokuapp.com/
 
 https://gustavoloaiza.github.io/pokedex/
